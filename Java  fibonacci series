@@ -1,0 +1,13 @@
+Class Test{
+Public static void main (string[]args){
+Int a=0 b=1,c;
+System.out.print(a+" "+b)
+For (i=0,i<=10,i++){
+C=a+b;
+Sysytem.out.print(" "+c)
+a=b;
+b=c;
+}
+}
+}
+
